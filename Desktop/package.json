@@ -1,0 +1,14 @@
+{
+  "name": "desktop-veterinary-app",
+  "version": "1.0.0",
+  "description": "Electron app for veterinary",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jorge Acero",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^7.1.8"
+  }
+}
