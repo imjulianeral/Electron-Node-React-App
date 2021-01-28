@@ -9,6 +9,6 @@
   "author": "Jorge Acero",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^7.1.8"
+    "electron": "^9.4.0"
   }
 }
